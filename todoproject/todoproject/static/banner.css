@@ -1,0 +1,13 @@
+.banner{
+  background-color:Thistle;
+  width:100%;
+  height:70px;
+  margin-bottom:2%;
+}
+
+.banner-text{
+   top:1%;
+   left:45%;
+   position:absolute;
+   transform:transform
+}
